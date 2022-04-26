@@ -1,0 +1,11 @@
+{
+    "name": "com.tdy.tinject",
+    "displayName": "Tinject",
+    "version": "1.0.0",
+    "unity": "2019.4",
+    "description": "The simplest dependency injection framework for Unity3D.",
+    "keywords": [ "IoC", "dependency injection"],
+    "category": "penis lmao",
+    "dependencies": {
+    }
+  }
